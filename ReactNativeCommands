@@ -1,0 +1,6 @@
+npx create-expo-app MyReactNative
+
+
+
+
+npx expo install @react-navigation/native @react-navigation/native-stack expo-constants expo-device expo-notifications native-notify react-native-safe-area-context react-native-screens react-native-vector-icons
